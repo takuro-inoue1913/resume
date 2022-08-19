@@ -1,4 +1,4 @@
-# Takuro Inoue resume
+# Takuro Inoue Resume
 ## Features
 
 ### 💅 Lint text
