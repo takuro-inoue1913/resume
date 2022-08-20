@@ -8,6 +8,7 @@
 |居住地|**東京都**|
 |Twitter|[https://twitter.com/takutaku1913](https://twitter.com/takutaku1913)|
 |Qiita|[https://qiita.com/takutaku1913](https://qiita.com/takutaku1913)|
+
 ## 技術スタック
 - バックエンド 1 年半
 - フロントエンド 2 年
