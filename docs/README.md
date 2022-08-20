@@ -22,7 +22,6 @@
 
 - Node.js
   - Nest.js
-  - Next.js
 - PHP
   - BEAR.Sunday
   - Laravel  
