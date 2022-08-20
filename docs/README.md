@@ -1,13 +1,14 @@
 # 職務経歴書
 
 ## 基本情報
-
-|key|value|
-|---|---|
-|氏名|井上 拓郎|
-|生年月日|1988年 1月18日|
-|Twitter|https://twitter.com/takutaku1913|
-|Qiita|https://qiita.com/takutaku1913|
+### 氏名
+井上 拓郎
+### 生年月日
+1988年 1月18日
+### Twitter
+https://twitter.com/takutaku1913
+### Qiita
+https://qiita.com/takutaku1913
 
 ## 技術スタック
 - バックエンド 1 年半
@@ -50,8 +51,6 @@
 #### 関わった開発
 
   > **ホテル管理システム(PMS)のプロダクト開発**
-  
-  サービス: [aiPass](https://aipass.jp/)
 
   - **ホテルの客室スケジュール管理用のカレンダー作成**
   
