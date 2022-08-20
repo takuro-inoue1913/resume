@@ -31,25 +31,15 @@
   - Laravel  
 
 ## 職務経歴詳細
-### 株式会社マネーフォワード （2022/05〜現在）
-- 使用言語やツール
-  - フロントエンド： React, TypeScript
-  - バックエンド： PHP, SQL, BEAR.Sunday, Laravel
-  - SQL クライアントツール： TablePlus
-  - バージョン管理ツール： GitHub
-  - スケジュール管理ツール： Notion
-  - コミニケーションツール： Slack
-    
-
 ### 株式会社ブルーイッシュ （2020/08 〜 2022/03）
 #### 使用言語やツール
 
-  - フロントエンド：React, TypeScript
-  - バックエンド：PHP, SQL, BEAR.Sunday, Laravel
-  - SQL クライアントツール： TablePlus
-  - バージョン管理ツール：GitHub
-  - スケジュール管理ツール：Notion
-  - コミニケーションツール：Slack
+  - フロントエンド: **React**, **TypeScript**
+  - バックエンド： **PHP**, **SQL**, **BEAR.Sunday**, **Laravel**
+  - SQL クライアントツール： **TablePlus**
+  - バージョン管理ツール： **GitHub**
+  - スケジュール管理ツール： **Notion**
+  - コミニケーションツール： **Slack**
 #### 関わった開発
 
   > **ホテル管理システム(PMS)のプロダクト開発**
@@ -81,11 +71,11 @@
 ### 株式会社マネーフォワード （2022/05 〜 現在）
 #### 使用言語やツール
 
-  - フロントエンド： React, TypeScript
-  - バックエンド： Rails
-  - バージョン管理ツール： GitHub
-  - スケジュール管理ツール： Asana
-  - コミニケーションツール： Slack
+  - フロントエンド： **React**, **TypeScript**
+  - バックエンド： **Rails**
+  - バージョン管理ツール： **GitHub**
+  - スケジュール管理ツール： **Asana**
+  - コミニケーションツール： **Slack**
 
 #### 関わった開発
   
