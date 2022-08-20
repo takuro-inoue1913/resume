@@ -19,7 +19,7 @@
 
 ### 
 
-### Lint
+### ✨ Lint
 ```
 $ yarn lint:fix
 ```
