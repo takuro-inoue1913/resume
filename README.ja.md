@@ -9,8 +9,11 @@
 
 ## Data
 - [GitHub Pages](https://takuro-inoue1913.github.io/resume/)  
+  - Webで公開している職務経歴書です。内容は[職務経歴書README.md](https://github.com/takuro-inoue1913/resume/blob/master/docs/README.md)と同じです。
 - [PDF](https://github.com/takuro-inoue1913/resume/releases)  
+  - ここから最新バージョンのPDFをダウンロード出来ます。
 - [File](https://github.com/takuro-inoue1913/resume/blob/master/docs/README.md)  
+  - 職務経歴書を記載しているREADME.mdです。
 
 ## Features
 
