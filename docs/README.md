@@ -24,8 +24,8 @@
   - Next.js
   - Nest.js
 - PHP
-  - BEAR.Sunday
-  - laravel  
+  - BEAR.Sunday  
+  - Laravel  
 ---
 
 ## 職務経歴詳細
