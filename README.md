@@ -5,7 +5,7 @@
 [![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22create+issue%22)
 [![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)](https://github.com/kawamataryo/resume/releases)
 
-[ English | [日本語](https://github.com/kawamataryo/resume/blob/master/README.ja.md) ]
+[ English | [日本語](https://github.com/takuro-inoue1913/resume/blob/master/README.ja.md) ]
 
 ## Data
 - [GitHub Pages](https://takuro-inoue1913.github.io/resume/)  
