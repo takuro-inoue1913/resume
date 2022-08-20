@@ -1,4 +1,4 @@
-# Takuro Inoue Resume
+# 井上拓郎の職務経歴書
 
 [![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22lint+text%22)
 [![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22build+pdf%22)
@@ -25,10 +25,11 @@ $ yarn lint:fix
 ```
 $ yarn build:pdf
 ```
+出力されるPDFはCSSで任意のスタイルを設定可能です。pdf-configs/style.cssを編集してください。
 
 ### 🛠 Create release
 
-When you push with a `v**` tag, GitHub Actions will run the build, generate the PDF, create a Release, and register the PDF to Assets.
+v** tagをつけてpushするとGitHub Actionsでビルドが走り、PDFの生成、Releaseの作成、AssetsへPDFの登録が実行されます。
 
 ```
 $ git commit -m "add job"
@@ -38,7 +39,7 @@ $ git push origin --tags
 
 ### 📆 Remind update
 
-Automatically generate issues every three months with GitHub Actions Schedules triggers to prompt you to update your resume.
+GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
-To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
-To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
+期間を変更したり、ジョブを停止するには、 `.github/workflows/create-issue.yml` を編集してください。 
+課題の内容を変更するには、`.github/ISSUE_TEMPLATE.md` を編集してください。
