@@ -1,4 +1,5 @@
 title: Takuro Inoue Resume
-description: Minimal is a theme for GitHub Pages.
+description: 職務経歴書は定期的にアップデートしていますので常に最新の状態を維持しています。
 google_analytics:
+is_user_page: true
 theme: jekyll-theme-minimal
