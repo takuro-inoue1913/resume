@@ -9,8 +9,11 @@
 
 ## Data
 - [GitHub Pages](https://takuro-inoue1913.github.io/resume/)  
+  - This is a job resume that is available on the web. The content is the same as that of the CV README.md.
 - [PDF](https://github.com/takuro-inoue1913/resume/releases)  
+  - You can download the latest version of the PDF here.
 - [File](https://github.com/takuro-inoue1913/resume/blob/master/docs/README.md)  
+  - README.md that describes your work history.
 
 ## Features
 
