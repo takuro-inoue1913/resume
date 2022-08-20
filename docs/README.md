@@ -3,9 +3,9 @@
 ## 基本情報
 |key|value|
 |---|---|
-|氏名|**井上 拓郎**|
-|生年月日|**1988/01/18**|
-|居住地|**東京都**|
+|氏名|井上 拓郎|
+|生年月日|1988/01/18|
+|居住地|東京都|
 |Twitter|[https://twitter.com/takutaku1913](https://twitter.com/takutaku1913)|
 |Qiita|[https://qiita.com/takutaku1913](https://qiita.com/takutaku1913)|
 ## 技術スタック
