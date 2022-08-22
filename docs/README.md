@@ -15,11 +15,11 @@
 ### 言語
 - JavaScript
 - TypeScript
-- React
 - PHP
 
 ### フレームワーク・その他
 - Node.js
+  - React.js
   - Next.js
   - Nest.js
 - PHP
