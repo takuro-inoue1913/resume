@@ -1,7 +1,8 @@
 ---
-title: Please update your resume【{{ date | date('YYYY/MM/DD') }}】
+title: 職務経歴書を更新してください【{{ date | date('YYYY/MM/DD') }}】
+assignees: takuro-inoue1913
 labels: enhancement
 ---
 
-The quarter has passed.
-Please describe your accomplishments during this period in your resume.
+四半期が経過しました。  
+この期間の成果を職務経歴書に記載してください。
