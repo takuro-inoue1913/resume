@@ -4,15 +4,15 @@
 
 - Name: **井上 拓郎**
 - Birth: **1988/01/18**
-- Age: **37**
+- Age: **38**
 - Address: **東京都**
 - X (旧 Twitter): [https://twitter.com/takutaku1913](https://twitter.com/takutaku1913)
 - Qiita: [https://qiita.com/takutaku1913](https://qiita.com/takutaku1913)
 
 ## 技術スタック
 
-- バックエンド 2 年
-- フロントエンド 5 年
+- バックエンド 3 年
+- フロントエンド 6 年
 
 ### 言語
 
@@ -20,7 +20,7 @@
 - TypeScript
 - PHP
 - Go
-- ruby
+- Ruby
 
 ### フレームワーク・その他
 
@@ -33,6 +33,14 @@
   - BEAR.Sunday
   - Laravel
 - Rails
+- AWS
+  - Lambda
+  - CDK
+  - Amplify
+  - Pub/Sub メッセージング
+  - DynamoDB
+  - Cognito
+  - Lambda Function
 
 ## エンジニアになってからの経歴
 
